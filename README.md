@@ -15,7 +15,6 @@ Aplikasi yang ditujukan kepada pengguna untuk memudahkan dalam melakukan rental 
     <li><a href="#anggota-tim">Anggota Tim</a></li>
     <li><a href="#fungsi">Fungsi</a></li>
     <li><a href="#tujuan">Tujuan</a></li>
-    <li><a href="#manfaat">manfaat</a></li>
     <li><a href="#target-Pengguna">Target Pengguna</a></li>
   </ol>
 </details>
